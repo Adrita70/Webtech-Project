@@ -1,0 +1,60 @@
+body{
+    background-image: url("CB.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1303px 659px;
+    
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+h1
+{
+color : rgb(218, 218, 213) ; 
+font-size:50px
+}
+h1 {
+	text-align: center;
+  }
+  
+  #myDIV {
+    width: 100px;
+    height: 100px;
+    position: relative;
+  }
+
+  .img1
+  {
+    
+    padding-left: 1090px;
+    margin-top: -100;
+  }
+  .img2
+  {
+    
+    padding-left: 640px;
+    margin-top: -250px;
+    
+  }
+  .img3
+  {
+    
+    padding-left: 200px;
+    margin-top: -360px;
+    
+  }
+  .img4
+  {
+    float: right;
+    margin-top: -300px;
+    
+  }
+  .img5
+  {
+    padding-left: 350px;
+    margin-top: -280px;
+    
+  }
+  

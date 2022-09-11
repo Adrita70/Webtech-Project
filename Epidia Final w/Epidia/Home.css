@@ -1,0 +1,35 @@
+body{
+	background-image: url("Home.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1303px 659px;
+    
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+#navbar{
+	background-color:black;
+	color:#fff;
+	margin-top: -21px;
+}
+
+#navbar ul
+{
+	padding:0;
+	list-style: none;
+    line-height: 3;
+}
+
+#navbar li
+{
+	display:inline;
+}
+
+#navbar a{
+	color:#fff;
+	text-decoration-line: none;
+	font-size: 20px;
+	padding-left:50px;
+}

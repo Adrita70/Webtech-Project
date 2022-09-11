@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("Game.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    color: #fff;
+}
+#myDIV {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation: myothermove 5s infinite;
+  }
+  @keyframes myothermove {
+    from {top: 0px;}
+    to {top: 200px;}
+  }
+  .img1
+  {
+    
+    padding-left: 900px;
+    margin-top: -100px;
+  }
+  .img2
+  {
+    
+    padding-left: 500px;
+    margin-top: -250px;
+    
+  }
+  .img3
+  {
+    
+    padding-left: 650px;
+    margin-top: 20px;
+    
+  }
+  #img4
+  {
+    
+    margin-top: -250px;
+    
+  }
+  .img5
+  {
+    float: right;
+    margin-top: -230px;
+    
+  }
+  

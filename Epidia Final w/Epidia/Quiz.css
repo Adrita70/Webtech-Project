@@ -1,0 +1,46 @@
+body{
+	background-image: url("Quiz.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 1700px 730px;
+	color:aquamarine;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:0;
+}
+
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+
+#main-header{
+	color:yellow;
+	text-align: center;
+}
+
+#main{
+	float:left;
+	width:70%;
+	padding:0 30px;
+	box-sizing: border-box;
+}
+
+#sidebar{
+	float:right;
+	width:30%;
+	background:#E55840 ;
+	color:#fff;
+	padding:10px;
+}
+
+#main-footer{
+	background: #333;
+	color:#fff;
+	text-align: center;
+	padding:20px;
+}
+
+

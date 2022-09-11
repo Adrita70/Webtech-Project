@@ -1,0 +1,27 @@
+body{
+	background-image: url("Epidia1.jpg");
+	background-attachment: fixed;
+    background-position: center;
+    
+}
+h1
+        {
+		 border: 4px black dotted;
+		 border-radius:20px;
+        }
+		#para
+        {
+		    margin:20px 420px;
+            background-color: #E7CCAE;
+            font-weight: bolder;
+            text-align: center;
+            
+        }
+        #para1
+        {
+            background-color: transparent;
+            text-align: center;
+             padding-top: 600px; 
+                    
+		    
+        }
